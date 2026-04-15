@@ -1,4 +1,6 @@
-package com.darius.acm
+package com.darius.acm;
+
+import java.util.Scanner;
 
 public class MainTemplate{
     public static void main(String[] args) {
@@ -6,7 +8,7 @@ public class MainTemplate{
         Scanner sc = new Scanner(System.in);
 
         while (sc.hasNext()) {
-            int a = sc.nextInt();
+            int n = sc.nextInt();
 
             int[] arr = new int[n];
             for (int i = 0; i < n; i++) {

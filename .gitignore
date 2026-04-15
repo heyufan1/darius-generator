@@ -2,6 +2,9 @@
 # Compiled class file
 *.class
 
+.idea
+darius-generator.iml
+darius-generator-basic.iml
 # Log file
 *.log
 
@@ -81,9 +84,9 @@ buildNumber.properties
 # .idea/compiler.xml
 # .idea/jarRepositories.xml
 # .idea/modules.xml
- .idea/*.iml
- .idea/modules
- *.iml
+# .idea/*.iml
+# .idea/modules
+# *.iml
 # *.ipr
 
 # CMake
