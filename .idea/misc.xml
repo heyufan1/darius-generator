@@ -8,6 +8,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/yuzi-generator-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/darius-generator-basic1/pom.xml" />
       </list>
     </option>
   </component>
